@@ -1,0 +1,13 @@
+Funcionou bem 
+ > Maior controle das versões
+ > As histórias bem detalhadas ajudou
+ > Implementação rapida e facil
+ > Maior integridade dos arquivos
+ > Merge facil e sem problemas
+
+ Não Funcionou
+ > O arquivo veiculo.html não existe
+ > Problema em contato.html, não indexado para uma pagina com informações
+
+ Sugestões e melhorias 
+ > Continuar com essa forma, pois evita retrabalho e possiveis erros que podem surgir.

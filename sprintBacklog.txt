@@ -1,0 +1,11 @@
+Historias Implementadas
+
+(ID 1)-  Alterar cor da fonte dos nomes dos carros para azul na pagina index.html.
+
+(ID 2)- Modificar os nomes dos links na pagina contato.html para deixar a visita no site mais clara.
+
+Esforço para execução
+
+(ID 1)- Esforço baixo
+
+(ID 2)- Esforço baixo
